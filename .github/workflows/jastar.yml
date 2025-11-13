@@ -1,4 +1,4 @@
-name: Update Jio (__hdnea__) playlist as jstar.m3u
+name: Auto-update JioTV playlist
 
 on:
   schedule:
